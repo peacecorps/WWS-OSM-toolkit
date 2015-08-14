@@ -11,23 +11,14 @@ Peace Corps is committed to leveraging new technology to facilitate interactions
 Recommended for students in the 6th grade and above
 
 
-1. Register for Peace Corps’ World Wise Schools Correspondence Match program [here] (https://www.peacecorps.gov/wws/classroom/correspondence/request/). When registering, indicate that you are interested in mapping in the final box of the registration form by writing, "Please match me with a Volunteer in the Mapping Initiative". 
+1. **Join Peace Corps' World Wise Schools program.** Register for Peace Corps’ World Wise Schools Correspondence Match program [here] (https://www.peacecorps.gov/wws/classroom/correspondence/request/). When registering, indicate that you are interested in mapping in the final box of the registration form by writing, "Please match me with a Volunteer in the Mapping Initiative". 
 
 
-2. The Peace Corps will contact you to introduce you to your matched Peace Corps Volunteer in the field. We will match you with a Volunteer who is currently working on a mapping project with his or her community.
+2. **Collaborate with a Peace Corps Volunteer in the field.** The Peace Corps will contact you to introduce you to your matched Peace Corps Volunteer in the field. We will match you with a Volunteer who is currently working on a mapping project with his or her community. Connect with your Peace Corps Volunteer to coordinate the appropriate type and amount of communication between them and your classroom.
 
 
-3. Connect with your Peace Corps Volunteer to coordinate the appropriate type and amount of communication between them and your classroom.
+3. **Teach your students OpenStreetMap.**Register your students or, if they have their own email addresses, have students register themselves for accounts at [OpenStreetMap] (www.openstreetmap.org). To learn the basics of “Why” and “How” to map, watch [these videos] (www.mapgive.state.gov) prepared by Peace Corps’ partner organization, Mapgive. The interactive videos provide time for students to practice each step of mapping, so be sure to watch the videos next to computers while logged in to OpenStreetMap. You can also use the pre-existing OpenStreetMap curriculum developed by [TeachOSM] (http://teachosm.org/). 
 
 
-4. Register your students or, if they have their own email addresses, have students register themselves for accounts at [OpenStreetMap] (www.openstreetmap.org). 
-
-
-5. To learn the basics of “Why” and “How” to map, watch [these videos] (www.mapgive.state.gov) prepared by Peace Corps’ partner organization, Mapgive. The interactive videos provide time for students to practice each step of mapping, so be sure to watch the videos next to computers while logged in to OpenStreetMap. You can also use the pre-existing OpenStreetMap curriculum developed by [TeachOSM] (http://teachosm.org/). 
-
-
-6. Work with your Peace Corps Volunteer to identify a mapping task that your students can complete. For examples of these tasks, visit Peace Corps' [current list of mapping tasks] (http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=peace+corps). 
-
-
-7. Start mapping! Your Peace Corps Volunteer and his or her community will need help creating a map of their community, and your students are perfect for the job. They will have the opportunity to observe, analyze, and digitize satellite imagery for a Peace Corps community. Your Peace Corps Volunteer can provide context and a rich description of his or her project during correspondence with your students.
+4. **Help create a base map of a Peace Corps community for use in a real field project.** Your Peace Corps Volunteer and his or her community will need help creating a map of their community, and your students are perfect for the job. They will have the opportunity to observe, analyze, and digitize satellite imagery for a Peace Corps community. Your Peace Corps Volunteer can provide context and a rich description of his or her project during correspondence with your students. Work with your Peace Corps Volunteer to identify the mapping task that your students should complete. For examples of these tasks, visit Peace Corps' [current list of mapping tasks] (http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=peace+corps).
 
