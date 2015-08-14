@@ -10,7 +10,7 @@ Peace Corps is committed to leveraging new technology to facilitate interactions
 Recommended for students in the 6th grade and above
 
 
-1. Register for Peace Corps’ World Wise Schools Correspondence Match program here. When registering, indicate that you are a Girl Scout Troop Leader interested in mapping in the final box of the registration form. 
+1. Register for Peace Corps’ World Wise Schools Correspondence Match program [here] (https://www.peacecorps.gov/wws/classroom/correspondence/request/). When registering, indicate that you are interested in mapping in the final box of the registration form by writing, "Please match me with a Volunteer in the Mapping Initiative". 
 
 
 2. The Peace Corps will contact you to introduce you to your matched Peace Corps Volunteer in the field. We will match you with a Volunteer who is currently working on a mapping project with his or her community.
