@@ -20,13 +20,13 @@ Recommended for students in the 6th grade and above
 3. Connect with your Peace Corps Volunteer to coordinate the appropriate type and amount of communication between them and your classroom.
 
 
-4. Register your students or, if they have their own email addresses, have students register themselves for accounts at www.openstreetmap.org. 
+4. Register your students or, if they have their own email addresses, have students register themselves for accounts at [OpenStreetMap] (www.openstreetmap.org). 
 
 
-5. To learn the basics of “Why” and “How” to map, watch these videos prepared by Peace Corps’ partner organization, Mapgive. The interactive videos provide time for students to practice each step of mapping, so be sure to watch the videos next to computers while logged in to OpenStreetMap.
+5. To learn the basics of “Why” and “How” to map, watch [these videos] (www.mapgive.state.gov) prepared by Peace Corps’ partner organization, Mapgive. The interactive videos provide time for students to practice each step of mapping, so be sure to watch the videos next to computers while logged in to OpenStreetMap. You can also use the pre-existing OpenStreetMap curriculum developed by [TeachOSM] (http://teachosm.org/). 
 
 
-6. Work with your Peace Corps Volunteer to identify a mapping task that your students can complete. For examples of these tasks, visit here. 
+6. Work with your Peace Corps Volunteer to identify a mapping task that your students can complete. For examples of these tasks, visit Peace Corps' [current list of mapping tasks] (http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=peace+corps). 
 
 
 7. Start mapping! Your Peace Corps Volunteer and his or her community will need help creating a map of their community, and your students are perfect for the job. They will have the opportunity to observe, analyze, and digitize satellite imagery for a Peace Corps community. Your Peace Corps Volunteer can provide context and a rich description of his or her project during correspondence with your students.
