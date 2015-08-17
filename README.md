@@ -1,5 +1,5 @@
 # WWS-OSM-toolkit
-To draft out a toolkit for the use of OpenStreetMap by educators via Peace Corp's World Wise Schools program. 
+This toolkit offers guidance for educators who are interested in engaging their students in hands-on open mapping activities in support of Peace Corps Volunteers and their current field projects. 
 
 ## Introduction
 
