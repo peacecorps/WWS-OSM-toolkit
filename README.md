@@ -16,13 +16,13 @@ The majority of people in the developing world do not enjoy access to accurate, 
 ## For Educators: How to Get Involved
 Recommended for students in the 6th grade and above
 
-**One: Join Peace Corps' World Wise Schools Correspondence Match.** Register for Peace Corps’ World Wise Schools Correspondence Match program [here] (https://www.peacecorps.gov/wws/classroom/correspondence/request/). When registering, indicate that you are interested in mapping in the final box of the registration form by writing: "Please match me with a Volunteer in the Mapping Initiative". 
+**One: Join Peace Corps' World Wise Schools Correspondence Match.** Register for Peace Corps’ World Wise Schools Correspondence Match program [here] (https://www.peacecorps.gov/wws/classroom/correspondence/request/). Indicate that you are interested in mapping in the final box of the registration form by writing: "Please match me with a Volunteer in the Mapping Initiative". 
 
-**Two: Collaborate with a Peace Corps Volunteer in the field.** The Peace Corps will contact you to introduce you to your matched Peace Corps Volunteer in the field. We will match you with a Volunteer who is currently working on a mapping project with his or her community. Connect with your Peace Corps Volunteer to coordinate the appropriate type and amount of communication with your classroom.
+**Two: Collaborate with a Peace Corps Volunteer in the field.** The Peace Corps will contact you to introduce you to your matched Peace Corps Volunteer in the field. We will match you with a Volunteer who is currently working on a mapping project with his or her community. Connect with your Peace Corps Volunteer to coordinate communication with your classroom.
 
 ![Sixth grade students video chat with Peace Corps Volunteers in Mozambique after mapping for their projects.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_0937.jpg)
 
-**Three: Teach your students OpenStreetMap.**Register your students or, if they have their own email addresses, have students register themselves for accounts at [OpenStreetMap] (www.openstreetmap.org). To learn the basics of “Why” and “How” to map, watch [these videos] (www.mapgive.state.gov) prepared by Peace Corps’ partner organization, Mapgive. The interactive videos provide time for students to practice each step of mapping, so be sure to watch the videos next to computers while logged in to OpenStreetMap. You can also use the pre-existing OpenStreetMap curriculum developed by [TeachOSM] (http://teachosm.org/). 
+**Three: Teach your students OpenStreetMap.**Register your students or, if they have their own email addresses, have students register themselves for accounts at [OpenStreetMap] (www.openstreetmap.org). To learn the basics of “Why” and “How” to map, watch [these videos] (www.mapgive.state.gov) prepared by Peace Corps’ partner organization, Mapgive. The interactive videos provide time for students to practice, so be sure to watch the videos next to computers while logged in to OpenStreetMap. You can also use the pre-existing OpenStreetMap curriculum developed by [TeachOSM] (http://teachosm.org/). 
 
 ![A middle school student learns how to map in OpenStreetMap.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_9069.jpg)
 
