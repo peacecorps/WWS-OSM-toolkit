@@ -32,11 +32,15 @@ From March-June 2015, Peace Corps’ Office of Third Goal and Returned Volunteer
 
 ## For Peace Corps Volunteers: How to Get Involved
 
-**One: Join Peace Corps' World Wise Schools Correspondence Match.** Register for Peace Corps’ World Wise Schools Correspondence Match program [here] (https://www.peacecorps.gov/wws/volunteers/correspondence/enroll/). Indicate that you are interested in mapping in the "How did you learn about this program?" box of the registration form by writing: "Please match me with a Volunteer in the Mapping Initiative". You can also choose an educator whom you already know, if the educator is interested in involving his or her classroom in open mapping. 
+![Peace Corps Botswana Volunteers video chat with high school students who are mapping for their site.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_9003.jpg)
 
-**Two: Collaborate with an American educator and classroom.** The Peace Corps will contact you to introduce you to your educator match, who will have already indicated to us that they would like their students to map on OpenStreetMap for your project. Connect with the educator to coordinate communication with the classroom.
+**One: Join Peace Corps' World Wise Schools Correspondence Match.** Register for Peace Corps’ World Wise Schools Correspondence Match program [here] (https://www.peacecorps.gov/wws/volunteers/correspondence/enroll/). Indicate that you are interested in mapping in the "How did you learn about this program?" box of the registration form by writing: "Please match me with a Volunteer in the Mapping Initiative". You can also choose an educator whom you already know.
 
-**Three: Bring your project to life for students.**
+![Peace Corps Botswana Volunteers address a White House audience, including several students, to discuss the importance of OpenStreetMap for their host communities.] (https://peacecorpsmappingproject.files.wordpress.com/2015/05/screenshot-2015-05-26-at-9-23-53-am.png)
+
+**Two: Collaborate with an American educator and classroom.** The Peace Corps will contact you to introduce you to your educator match, who has already indicated to us that they would like their students to map on OpenStreetMap for your project. Connect with the educator to coordinate communication with the classroom.
+
+**Three: Bring your project to life for students.** 
 
 
 
