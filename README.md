@@ -1,7 +1,6 @@
 # WWS-OSM-toolkit
-This toolkit offers guidance for educators who are interested in engaging their students in hands-on open mapping activities in support of Peace Corps Volunteers and their current field projects. 
 
-## Introduction
+#Introduction
 
 Since 1989, the Paul D. Coverdell World Wise Schools program has enabled Peace Corps Volunteers, host country communities, and American youth to forge profound connections and engage in cross-cultural learning. Volunteers use a variety of tools, including blogs, emails, photos, videos, phone calls and letters to share their experiences with American youth. Peace Corps is committed to leveraging new technology, including OpenStreetMap, to facilitate interactions between American students and our host country communities. 
 
@@ -30,3 +29,14 @@ Recommended for students in the 6th grade and above
 
 ## Pilot Project
 From March-June 2015, Peace Corps’ Office of Third Goal and Returned Volunteer Services and Office of Innovation collaborated on a pilot project to test the viability of a World Wise Schools open mapping program. We worked with six educators to train 119 middle and high school students in Washington DC, Virginia and, through virtual lessons, in Michigan. The program was a resounding success – students and educators alike valued the opportunity to contribute in a hands-on, tangible way to Peace Corps projects while learning useful, take-to-the-market kinds of skills such as spatial reasoning and geographic analysis. Peace Corps Volunteers and their communities who previously lacked access to accurate base maps of their area and did not have the resources to build it themselves gained more detailed base maps for use in public health, ecotourism and education projects. 
+
+## For Peace Corps Volunteers: How to Get Involved
+
+**One: Join Peace Corps' World Wise Schools Correspondence Match.** Register for Peace Corps’ World Wise Schools Correspondence Match program [here] (https://www.peacecorps.gov/wws/volunteers/correspondence/enroll/). Indicate that you are interested in mapping in the "How did you learn about this program?" box of the registration form by writing: "Please match me with a Volunteer in the Mapping Initiative". You can also choose an educator whom you already know, if the educator is interested in involving his or her classroom in open mapping. 
+
+**Two: Collaborate with an American educator and classroom.** The Peace Corps will contact you to introduce you to your educator match, who will have already indicated to us that they would like their students to map on OpenStreetMap for your project. Connect with the educator to coordinate communication with the classroom.
+
+**Three: Bring your project to life for students.**
+
+
+
