@@ -1,4 +1,4 @@
-# WWS-OSM-toolkit
+# WWS-OSM-instructions
 
 #Introduction
 
