@@ -2,8 +2,6 @@
 
 #Introduction
 
-Since 1989, the Paul D. Coverdell World Wise Schools program has enabled Peace Corps Volunteers, host country communities, and American youth to forge profound connections and engage in cross-cultural learning. Volunteers use a variety of tools, including blogs, emails, photos, videos, phone calls and letters to share their experiences with American youth. Peace Corps is committed to leveraging new technology, including OpenStreetMap, to facilitate interactions between American students and our host country communities. 
-
 ![Sixth grade students map in OpenStreetMap for a Peace Corps project in Botswana.] (https://peacecorpsmappingproject.files.wordpress.com/2015/04/dsc_0474.jpg)
 
 Contributing data to OpenStreetMap empowers American youth to actively participate in the international development process and provides a unique and comprehensive understanding of our host communities’ human and physical landscapes. Through our World Wise Schools Correspondence Match program, your students will enjoy exciting conversation and learning opportunities with a Peace Corps Volunteer in the field while helping to create a real base map for use in that Volunteer's projects and host community. 
