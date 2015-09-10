@@ -2,7 +2,7 @@
 
 #Introduction
 
-![Sixth grade students map in OpenStreetMap for a Peace Corps project in Botswana.] (https://peacecorpsmappingproject.files.wordpress.com/2015/04/dsc_0474.jpg)
+![Sixth grade students map in OpenStreetMap for a Peace Corps project in Botswana.] (https://peacecorpsmappingproject.files.wordpress.com/2015/04/dsc_0474-e1441917806899.jpg)
 
 Contributing data to OpenStreetMap empowers American youth to actively participate in the international development process and provides a unique and comprehensive understanding of our host communities’ human and physical landscapes. Through our World Wise Schools Correspondence Match program, your students will enjoy exciting conversation and learning opportunities with a Peace Corps Volunteer in the field while helping to create a real base map for use in that Volunteer's projects and host community. 
 
