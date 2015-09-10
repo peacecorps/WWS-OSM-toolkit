@@ -28,8 +28,6 @@ Recommended for students in the 6th grade and above
 ## For Peace Corps Volunteers: How to Get Involved
 Students are an excellent resource when you're working with counterparts to develop a base map of your community on OpenStreetMap. If you lack reliable Internet access or simply the time to create a base map, let American students help you by tracing over roads and buildings in your community. Once they are finished, you and your community will be able to refine the map and add your local knowledge through OpenStreetMap's easy, user-friendly iD map editor. You can also contribute to Peace Corps' Third Goal by communicating with the students who map your community and helping them make sense of the satellite imagery they observe. 
 
-![Peace Corps Botswana Volunteers video chat with high school students who are mapping for their site.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_9003-e1441918064737.jpg)
-
 **One: Join Peace Corps' World Wise Schools Correspondence Match.** Register for Peace Corps’ World Wise Schools Correspondence Match program [here] (https://www.peacecorps.gov/wws/volunteers/correspondence/enroll/). Indicate that you are interested in mapping in the "How did you learn about this program?" box of the registration form by writing: "Please match me with a Volunteer in the Mapping Initiative". You can also choose an educator whom you already know.
 
 **Two: Collaborate with an American educator and classroom.** The Peace Corps will contact you to introduce you to your educator match, who has already indicated to us that they would like her students to map on OpenStreetMap for your project. Connect with the educator to set up your first video chat with the students. 
