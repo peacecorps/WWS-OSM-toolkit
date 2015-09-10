@@ -8,7 +8,7 @@ Contributing data to OpenStreetMap empowers American youth to actively participa
 
 The majority of people in the developing world do not enjoy access to accurate, detailed maps of their own communities and countries. This lack of maps poses challenges when health centers need to understand the geographic element of a disease or an ecotourism business wants to promote environmentally friendly travel on a website. It prevents local governments from accessing data that could help them better allocate resources, and it leaves students without a clear understanding of how to understand their immediate world through a geographic lens. Follow the instructions below to involve your classroom today! 
 
-![Middle school students celebrate their Peace Corps OpenStreetMap project.] (https://peacecorpsmappingproject.files.wordpress.com/2015/06/img_3801.jpeg)
+![Middle school students celebrate their Peace Corps OpenStreetMap project.] (https://peacecorpsmappingproject.files.wordpress.com/2015/06/img_3801-e1441917881973.jpeg)
 
 ## For Educators: How to Get Involved
 Recommended for students in the 6th grade and above
@@ -17,13 +17,13 @@ Recommended for students in the 6th grade and above
 
 **Two: Collaborate with a Peace Corps Volunteer in the field.** The Peace Corps will contact you to introduce you to your matched Peace Corps Volunteer in the field. We will match you with a Volunteer who is currently working on a mapping project with his or her community. Connect with your Peace Corps Volunteer to coordinate communication with your classroom.
 
-![Sixth grade students video chat with Peace Corps Volunteers in Mozambique after mapping for their projects.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_0937.jpg)
-
 **Three: Teach your students OpenStreetMap.** Register your students or, if they have their own email addresses, have students register themselves for accounts at [OpenStreetMap] (www.openstreetmap.org). To learn the basics of “Why” and “How” to map, watch [these videos] (www.mapgive.state.gov) prepared by Peace Corps’ partner organization, Mapgive. The interactive videos provide time for students to practice, so be sure to watch the videos next to computers while logged in to OpenStreetMap. You can also use the pre-existing OpenStreetMap curriculum developed by [TeachOSM] (http://teachosm.org/). 
 
-![A middle school student learns how to map in OpenStreetMap.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_9069.jpg)
-
 **Four: Help create a base map of a Peace Corps community for use in a real field project.** Your Peace Corps Volunteer and his or her community will need help creating a map of their community, and your students are perfect for the job. They will have the opportunity to observe, analyze, and digitize satellite imagery for a Peace Corps community. Your Peace Corps Volunteer can provide context and a rich description of his or her project during correspondence with your students. Work with your Peace Corps Volunteer to identify the mapping task that your students should complete. For examples of these tasks, visit Peace Corps' [current list of mapping tasks] (http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=peace+corps).
+
+![Sixth grade students video chat with Peace Corps Volunteers in Mozambique after mapping for their projects.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_0937-e1441917948216.jpg)
+
+![A middle school student learns how to map in OpenStreetMap.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_9069.jpg)
 
 ## For Peace Corps Volunteers: How to Get Involved
 Students are an excellent resource when you're working with counterparts to develop a base map of your community on OpenStreetMap. If you lack reliable Internet access or simply the time to create a base map, let American students help you by tracing over roads and buildings in your community. Once they are finished, you and your community will be able to refine the map and add your local knowledge through OpenStreetMap's easy, user-friendly iD map editor. You can also contribute to Peace Corps' Third Goal by communicating with the students who map your community and helping them make sense of the satellite imagery they observe. 
