@@ -23,21 +23,22 @@ Recommended for students in the 6th grade and above
 
 ![Sixth grade students video chat with Peace Corps Volunteers in Mozambique after mapping for their projects.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_0937-e1441917948216.jpg)
 
-![A middle school student learns how to map in OpenStreetMap.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_9069.jpg)
+![A middle school student learns how to map in OpenStreetMap.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_9069-e1441918022651.jpg)
 
 ## For Peace Corps Volunteers: How to Get Involved
 Students are an excellent resource when you're working with counterparts to develop a base map of your community on OpenStreetMap. If you lack reliable Internet access or simply the time to create a base map, let American students help you by tracing over roads and buildings in your community. Once they are finished, you and your community will be able to refine the map and add your local knowledge through OpenStreetMap's easy, user-friendly iD map editor. You can also contribute to Peace Corps' Third Goal by communicating with the students who map your community and helping them make sense of the satellite imagery they observe. 
-![Peace Corps Botswana Volunteers video chat with high school students who are mapping for their site.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_9003.jpg)
+
+![Peace Corps Botswana Volunteers video chat with high school students who are mapping for their site.] (https://peacecorpsmappingproject.files.wordpress.com/2015/08/img_9003-e1441918064737.jpg)
 
 **One: Join Peace Corps' World Wise Schools Correspondence Match.** Register for Peace Corps’ World Wise Schools Correspondence Match program [here] (https://www.peacecorps.gov/wws/volunteers/correspondence/enroll/). Indicate that you are interested in mapping in the "How did you learn about this program?" box of the registration form by writing: "Please match me with a Volunteer in the Mapping Initiative". You can also choose an educator whom you already know.
-
-![Peace Corps Botswana Volunteers address a White House audience, including several students, to discuss the importance of OpenStreetMap for their host communities.] (https://peacecorpsmappingproject.files.wordpress.com/2015/05/screenshot-2015-05-26-at-9-23-53-am.png)
 
 **Two: Collaborate with an American educator and classroom.** The Peace Corps will contact you to introduce you to your educator match, who has already indicated to us that they would like their students to map on OpenStreetMap for your project. Connect with the educator to coordinate communication with the classroom.
 
 **Three: Bring your project to life for students.** Share stories, pictures and rich descriptions of the geography of your community to help students make a connection between the satellite imagery they observe of your site and the humans who live there. PCVs have used a variety of media to communicate with their matched classrooms, including video chats, blog posts, captioned pictures, phone calls, and letters. If you need additional assistance planning your Correspondence Match activities, refer to the [Correspondence Match Handbook.] (http://files.peacecorps.gov/uploads/wws/lesson-plans/files/CM_PCV_Handbook_1.pdf)
 
 **Four: Measure and report your results.** As with any project, be sure to measure and report your activities and results in the VRF. Take note of how many students participate in your Third Goal activities. You can also ask the teacher to make sure students use a particular hashtag while saving OpenStreetMap edits and check their progress by searching for that hashtag on [Results-Maps.] (http://resultmaps.neis-one.org/osm-changesets#2/34.0/1.4) 
+
+![Peace Corps Botswana Volunteers address a White House audience, including several students, to discuss the importance of OpenStreetMap for their host communities.] (https://peacecorpsmappingproject.files.wordpress.com/2015/05/screenshot-2015-05-26-at-9-23-53-am-e1441918129711.png)
 
 ## Pilot Project
 From March-June 2015, Peace Corps’ Office of Third Goal and Returned Volunteer Services and Office of Innovation collaborated on a pilot project to test the viability of a World Wise Schools open mapping program. We worked with six educators to train 119 middle and high school students in Washington DC, Virginia and, through virtual lessons, in Michigan. The program was a resounding success – students and educators alike valued the opportunity to contribute in a hands-on, tangible way to Peace Corps projects while learning useful, take-to-the-market kinds of skills such as spatial reasoning and geographic analysis. Peace Corps Volunteers and their communities who previously lacked access to accurate base maps of their area and did not have the resources to build it themselves gained more detailed base maps for use in public health, ecotourism and education projects. Two of the most outstanding student mappers were even featured at the [White House Mapathon.] (http://www.cnn.com/videos/politics/2015/06/01/first-annual-white-house-mapathon.cnn)
